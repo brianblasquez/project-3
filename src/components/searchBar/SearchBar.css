@@ -1,0 +1,34 @@
+.searchBar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.containerSearch {
+  display: flex;
+}
+
+h2 {
+  font-style: normal;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  color: #572ee5;
+}
+
+input {
+  width: 74vh;
+  height: 7vh;
+  border-radius: 61px 0px 0px 61px;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+}
+
+.buttonSearch {
+  background: #572ee5;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 0px 61px 61px 0px;
+  height: 7vh;
+  width: 12vh;
+}

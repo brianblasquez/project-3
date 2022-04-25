@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+
+.buttonChange {
+  border: 1px solid #6809e1;
+  box-sizing: border-box;
+  border-radius: 61px;
+  height: 43px;
+  width: 148px;
+  font-size: 14px;
+  color: #6809e1;
+  background-color: white;
+}
